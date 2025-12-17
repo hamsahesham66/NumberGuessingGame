@@ -37,7 +37,5 @@ Welcome to the Number Guessing Game! This is a simple command-line game where yo
 
 ## Acknowledgments
 ---------------
-
-* Thanks to the Node.js community for providing the `readline` module.
 * Thanks to the GitHub community for providing a platform for open-source projects.
 * Thanks to Roadmap.sh for providing this project idea.
